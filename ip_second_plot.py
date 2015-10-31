@@ -11,4 +11,7 @@ for i in range(years + 1):
 
 pylab.figure(1)
 pylab.plot(range(years + 1), values)
+pylab.title("5.3% interest on 1000 dollars saving, 20 years")
+pylab.xlabel("Years 0 to 20")
+pylab.ylabel("Principal")
 pylab.show()
