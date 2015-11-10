@@ -56,14 +56,6 @@ class Field(object):
         return self.drunks[drunk]
 
 
-
-
-
-
-
-
-
-
 import random
 
 
