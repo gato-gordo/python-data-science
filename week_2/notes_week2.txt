@@ -1,0 +1,37 @@
+Law of Large Numbers:
+	in repeated independent tests with the same actual probability p of a
+	particular outcome in each test, the chance that the fraction of times that
+	outcome differs from p converges to 0 as the number of trials goes to
+	infinity
+	-- says nothing about absolute difference
+
+Gambler's Fallacy:
+	if deviations from the expected behavior occur, those deviations are likely
+	to be evened out by opposite deviations in the future
+	--Why? independent events
+
+Linear Scaling:
+	-- points evenly laid out
+
+-Never possible to be assured of perfect accuracy through sampling, unless you
+sample the entire population
+
+How Much is Enough?
+-how many samples do we need to look at in order to have a justified confidence
+that something that is true about the population of samples is also true about
+the population from which the samples are drawn?
+
+Depends on the Variance in the underlying distribution
+	- variance - how much spread there is in different outcomes
+
+Standard of Deviation
+	- how many values are close to the mean
+
+The standard of deviation should always be viewed in the contxt of of the mean.
+If the mean were a billion and the standard deviation were 100, we would view
+the dispersion of the data as small.  If the mean were 100 and the standard
+deviation 100, we would view the dispersion as quite large.
+
+The coefficient of variation is the standard deviation divided by the mean.
+  *** when comparing data sets with highly variables means, the
+  coefficient of variation is often more informative than the standard deviation
