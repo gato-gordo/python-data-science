@@ -1,0 +1,29 @@
+monte carlo methods:
+	measuring the value of an unknown quantity using the principles of
+	inferential statistics
+
+a random sample tends to exhibit the same properties of the population from
+which it is drawn
+
+it is not sufficient to produce a good answer.  we have to have a valid reason
+to be believe it's a good answer.
+
+Before we can believe in the results of a simulation:
+	1) Conceptual Model is coorect
+	2) Implementation is correct
+	3) Large enough sample
+
+Confidence Intervals:
+	for normal distributions
+	instead of estimating an unknown parameter by a single value (the mean of a
+	set of trials), a cofidence interval provides a range that is likely to
+	contain the unknown value and a confidence level that the unknown value
+	lays within that range
+
+Empirical Rule
+	68% of the data falls within 1 standard deviation of the mean
+	95% of the data falls within 2 standard deviations of the mean
+	99.7% of the data falls within 3 standard deviations of the mean
+
+Stanard Error
+	Provides an estimate of the standard deviation
