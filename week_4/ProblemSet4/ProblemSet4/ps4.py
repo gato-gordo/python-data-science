@@ -21,8 +21,8 @@ def simulationDelayedTreatment(numTrials):
 
     numTrials: number of simulation runs to execute (an integer)
     """
-    
-    # TODO
+    for i in range(numTrials) 
+  
 
 
 
